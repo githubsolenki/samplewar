@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>THISIS MY WAR FILE</h1>
+<h1>THISIS MY WAR FILE USING MAVEN PROJECT</h1>
 <p>This is a paragraph.</p>
 
 </body>
